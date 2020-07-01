@@ -1,2 +1,1 @@
-# netaneldj.github.io
-[My Portfolio](https://netaneldj.github.io/)
+# [netaneldj.github.io](https://netaneldj.github.io/)
