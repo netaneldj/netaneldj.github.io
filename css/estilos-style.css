@@ -941,8 +941,10 @@
     }
 
     .media.blog-thumb .media-left img {
-      position: relative;
-      bottom: 10em;
+      width: 100%;
+      height: auto;      
+      /*position: relative;
+      bottom: 10em;*/
     }
 
     #work .work-thumb,
@@ -963,8 +965,10 @@
     }
 
     .media.blog-thumb .media-left img {
-      position: relative;
-      bottom: 10em;
+      width: 100%;
+      height: auto;            
+      /*position: relative;
+      bottom: 10em;*/
     }
   }
 
@@ -1046,8 +1050,10 @@
     }
 
     .media.blog-thumb .media-left img {
-      position: relative;
-      bottom: 6em;
+      width: 100%;
+      height: auto;            
+      /*position: relative;
+      bottom: 6em;*/
     }
     
   }
